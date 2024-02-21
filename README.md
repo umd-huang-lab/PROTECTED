@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="center">
-  <a href="TBD"><strong>[Paper]</strong></a>
+  <a href="https://arxiv.org/abs/2402.12673"><strong>[Paper]</strong></a>
   ·
    <a href="TBD"><strong>[Project page]</strong></a>
   ·
@@ -136,4 +136,10 @@ This project is based on the following open-source projects. We thank the author
 
 Please cite our work if you find it is helpful:
 ```
+@inproceedings{liu2023beyond,
+  title={Beyond Worst-case Attacks: Robust RL with Adaptive Defense via Non-dominated Policies},
+  author={Liu, Xiangyu and Deng, Chenghao and Sun, Yanchao and Liang, Yongyuan and Huang, Furong},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2023}
+}
 ```
