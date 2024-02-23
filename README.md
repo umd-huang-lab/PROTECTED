@@ -20,9 +20,9 @@
 <h3 align="center">
   <a href="https://arxiv.org/abs/2402.12673"><strong>[Paper]</strong></a>
   ·
-   <a href="TBD"><strong>[Project page]</strong></a>
+   <a href="https://protected-beyond-worst-case.github.io/home/"><strong>[Project page]</strong></a>
   ·
-  <a href="TBD"><strong>[X (Twitter)]</strong></a>
+  <a href="https://x.com/furongh/status/1760859987851591681?s=46&t=iqTO3UQ6d96jwD4sbq_dcA"><strong>[X (Twitter)]</strong></a>
 
 </h3>
 
